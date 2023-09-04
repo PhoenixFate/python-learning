@@ -1,0 +1,5 @@
+print("*")
+print("*")
+print("a", end="")
+print("b", end="")
+print("d", end=" hello")

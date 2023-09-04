@@ -1,0 +1,10 @@
+print("1\t2\t3")
+print("10\t20\t30")
+print("hello\npython")
+# 常见的转义字符
+print("\\")
+print('\'')
+print("\"")
+print("\n")
+print("a\tb")
+print("a\rb")

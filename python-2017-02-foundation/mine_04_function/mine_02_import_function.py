@@ -1,0 +1,2 @@
+import mine_01_multiply_table
+mine_01_multiply_table.multiple_table()
